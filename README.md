@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Algumas Coisas HAHA](https://github-readme-stats.vercel.app/api?username=starzinfps1&show_icons=true&theme=radical)
 <!--
 **starzinfps1/starzinfps1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
