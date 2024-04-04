@@ -4,7 +4,7 @@
  
 <h4>🐦 Github - Estatisticas </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=starzinfps1&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lluissf&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff"></p>
 <br>
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
