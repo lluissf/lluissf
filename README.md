@@ -1,28 +1,38 @@
-<div align="center">
-  <h2>👋・Olá eu sou o <b>Luís Felipe</b>. </h4>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
- 
-<h4>🐦 Github - Estatisticas </h4>
+## Sobre mim
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lluissf&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff"></p>
-<br>
-<div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Bacharelado em Sistema de Informação no Instituto Federal Catarinense - Campus Araquari.
+- 🌱 Aprendendo mais sobre Python, Javascript e VueJS
 
-</div>
+## Minhas Skills
 
-##
+**Aplicações e dados**
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-<div> 
-  <a href="https://www.youtube.com/@LuisFelipeBSI" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_.luissf/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/starzin_fps1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/ZBZveka9RG" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
-</div>
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/lluissf" title="Perfil do Luís">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lluissf&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-Luís_Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luis-felipe-ferreira-da-silva-20b6bb2bb/)
+[![Gmail Badge](https://img.shields.io/badge/-luis.felipe.ferreira.da.silva.if@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:luis.felipe.ferreira.da.silva.if@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/lluissf)
