@@ -12,3 +12,4 @@
 
 ## 💼 Projetos
 - [Buscador de CEP](https://github.com/lluissf/buscador-cep): Busque um CEP e veja informações sobre ele.
+- [Lista de Tarefas](https://github.com/lluissf/lista-tarefa): Crie e gerencie sua lista de tarefas.
