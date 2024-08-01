@@ -2,12 +2,11 @@
 
 ## 🤔 Sobre mim
 
--  🤓 Atualmente estou aprendendo ``React JS`` e aprimorando minhas habilidades em programação.
 - 🎓 Estou cursando Bacharelado em Sistemas de Informação no Instituto Federal Catarinense.
 
 ## 🌱 Habilidades
 - Linguagens de programação: ``Javascript e Python``
-- Ferramentas && DevOps: ``Visual Studio Code e Github``
+- Ferramentas && DevOps: ``Visual Studio Code, PyCharm Education & Github``
 
 
 ## 💼 Projetos
