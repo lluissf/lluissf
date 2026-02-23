@@ -6,7 +6,7 @@
 
 - 🎓 Bacharelando em **Sistemas de Informação**.
 - 🛠️ Experiência com **Python (Django, Flask)**, **JavaScript** e **SQL**.
-- 🧠 Adoro resolver desafios de lógica e algoritmos.
+- 🧠 Busco resolver desafios de lógica e algoritmos.
 - 💬 Fala comigo sobre: Desenvolvimento Web, Estruturas de Dados e Automação. 
 - 📚 Sempre em busca de evolução como desenvolvedor.   
 
