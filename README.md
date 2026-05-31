@@ -41,8 +41,8 @@ Olá! Sou o Luís Felipe. Atualmente estou focado em me desenvolver no ecossiste
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lluissf&show_icons=true&theme=dark" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-top-langs.vercel.app/api?username=lluissf&layout=compact&theme=dark" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lluissf&show_icons=true&theme=dark" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=lluissf&layout=compact&theme=dark" height="160" alt="Top Languages" />
 </div>
  
 ---
